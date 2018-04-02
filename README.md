@@ -1,3 +1,23 @@
+Nine Old Androids Fix
+=================
+
+> 注：该开源库来源于JakeWharton 大神的 Nine Old Androids 动画库，原代码已停止更新
+>
+
+
+
+#### gradle依赖
+
+```groovy
+ compile 'com.nineoldandroids:library:2.4.0'
+```
+
+#### jar 依赖
+
+将jar包：`nineoldandroids-2.4.0.jar` 置于libs目录
+
+
+
 Nine Old Androids
 =================
 
@@ -36,9 +56,9 @@ a dependency:
       <artifactId>library</artifactId>
       <version>2.4.0</version>
     </dependency>
+    
 
-
-
+Developed By
 Developed By
 ============
 
@@ -50,24 +70,24 @@ License
 =======
 
     Copyright 2012 Jake Wharton
-
+    
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
     You may obtain a copy of the License at
-
+    
        http://www.apache.org/licenses/LICENSE-2.0
-
+    
     Unless required by applicable law or agreed to in writing, software
     distributed under the License is distributed on an "AS IS" BASIS,
     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
     See the License for the specific language governing permissions and
     limitations under the License.
+    
 
-
-
- [1]: http://android-developers.blogspot.com/2011/02/animation-in-honeycomb.html
- [2]: http://developer.android.com/reference/android/view/animation/package-summary.html
- [3]: http://developer.android.com/resources/samples/ApiDemos/src/com/example/android/apis/animation/index.html
- [4]: https://play.google.com/store/apps/details?id=com.jakewharton.nineoldandroids.sample
- [5]: https://github.com/JakeWharton/NineOldAndroids/downloads
- [6]: http://nineoldandroids.com
+[1]: http://android-developers.blogspot.com/2011/02/animation-in-honeycomb.html
+[1]: http://android-developers.blogspot.com/2011/02/animation-in-honeycomb.html
+[2]: http://developer.android.com/reference/android/view/animation/package-summary.html
+[3]: http://developer.android.com/resources/samples/ApiDemos/src/com/example/android/apis/animation/index.html
+[4]: https://play.google.com/store/apps/details?id=com.jakewharton.nineoldandroids.sample
+[5]: https://github.com/JakeWharton/NineOldAndroids/downloads
+[6]: http://nineoldandroids.com
