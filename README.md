@@ -1,7 +1,7 @@
 Nine Old Androids Fix
 =================
 
-> 注：该开源库来源于JakeWharton 大神的 Nine Old Androids 动画库，原代码已停止更新
+> 注：该开源库原代码来源于JakeWharton 大神的 Nine Old Androids 动画库，本人仅针对AndroidStudio环境修改发布，原代码已停止更新
 >
 
 
@@ -56,8 +56,8 @@ a dependency:
       <artifactId>library</artifactId>
       <version>2.4.0</version>
     </dependency>
-    
 
+Developed By
 Developed By
 Developed By
 ============
@@ -82,8 +82,8 @@ License
     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
     See the License for the specific language governing permissions and
     limitations under the License.
-    
 
+[1]: http://android-developers.blogspot.com/2011/02/animation-in-honeycomb.html
 [1]: http://android-developers.blogspot.com/2011/02/animation-in-honeycomb.html
 [1]: http://android-developers.blogspot.com/2011/02/animation-in-honeycomb.html
 [2]: http://developer.android.com/reference/android/view/animation/package-summary.html
